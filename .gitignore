@@ -1,0 +1,4 @@
+claude-setup
+.env
+.claude
+node_modules
